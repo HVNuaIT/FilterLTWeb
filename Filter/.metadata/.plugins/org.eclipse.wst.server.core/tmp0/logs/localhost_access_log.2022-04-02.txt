@@ -1,0 +1,13 @@
+127.0.0.1 - - [02/Apr/2022:20:12:35 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [02/Apr/2022:20:12:36 +0700] "GET /ServerletFilter/ HTTP/1.1" 404 771
+0:0:0:0:0:0:0:1 - - [02/Apr/2022:20:12:45 +0700] "GET /ServerletFilter/1 HTTP/1.1" 404 772
+127.0.0.1 - - [02/Apr/2022:20:15:35 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [02/Apr/2022:20:15:35 +0700] "GET /ServerletFilter/ HTTP/1.1" 404 771
+0:0:0:0:0:0:0:1 - - [02/Apr/2022:20:15:42 +0700] "GET /ServerletFilter/BangCam.png HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [02/Apr/2022:20:15:42 +0700] "GET /ServerletFilter/images/image-not-found.png HTTP/1.1" 200 -
+127.0.0.1 - - [02/Apr/2022:20:16:06 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [02/Apr/2022:20:16:06 +0700] "GET /ServerletFilter/ HTTP/1.1" 404 771
+0:0:0:0:0:0:0:1 - - [02/Apr/2022:20:16:39 +0700] "GET /ServerletFilter/SieuNhanGao.png HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [02/Apr/2022:20:16:39 +0700] "GET /ServerletFilter/images/BangCam.png HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [02/Apr/2022:20:16:50 +0700] "GET /ServerletFilter/images/BangCam.png HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [02/Apr/2022:20:16:51 +0700] "GET /favicon.ico HTTP/1.1" 404 762

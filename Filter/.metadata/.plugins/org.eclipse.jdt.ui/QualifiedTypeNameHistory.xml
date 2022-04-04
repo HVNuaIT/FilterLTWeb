@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="javax.servlet.annotation.WebInitParam"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpServletResponse"/>
+    <fullyQualifiedTypeName name="config.SecurityConfig"/>
+    <fullyQualifiedTypeName name="request.UserRoleRequestWrapper"/>
+    <fullyQualifiedTypeName name="utils.SecurityUtils"/>
+    <fullyQualifiedTypeName name="utils.DataDAO"/>
+    <fullyQualifiedTypeName name="bean.UserAccount"/>
+    <fullyQualifiedTypeName name="utils.AppUtils"/>
+</qualifiedTypeNameHistroy>
